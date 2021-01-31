@@ -1,0 +1,23 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "homework_l2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masha34/hw1.git"
+  },
+  "author": "Savchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masha34/hw1/issues"
+  },
+  "homepage": "https://github.com/Masha34/hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
